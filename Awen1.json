@@ -1,0 +1,8 @@
+{
+    "urls": [
+        {"url": "https://gitee.com/AGwen/city/raw/master/Awen.json","name": " 🀄Awen影视接口"},
+        {"url": "https://gitee.com/AGwen/city/raw/master/红中.json","name": " 🀄Awen无广接口"},
+        {"url": "https://www.yingm.cc/dm/dm.json","name": " 🀄Awen动漫接口"},
+        {"url": "https://gitee.com/AGwen/city/raw/master/AwenXX.json","name": "🀄Awen学习接口"}
+    ]
+}
