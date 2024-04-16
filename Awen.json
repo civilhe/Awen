@@ -9,7 +9,7 @@
     {"key":"酷看","name":"💗酷看App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fty.jar"},
     {"key": "时常","name": "💗时常APP","type": 3,"api": "csp_qiao3","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0,"ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9","jar":"./jar/qj.jar;md5;118da2bca160a3632204479a48f74001"},
     {"key": "FEIYUN","name": "💖飞云影视","type": 3,"api": "https://agit.ai/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js","ext": {"host": "http://122.228.84.103:6117/api.php/app/","*": ["http://122.228.84.103:7777/api/?key=AIN9Y1Sca7qJSzInL5&url="]}},
-    {"key": "csp_xBPQ_秒","name": "💖秒播(优)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hwhewen/Awen/main/分享秒播.json"},
+    {"key": "csp_xBPQ_秒","name": "💖秒播(优)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hwhewen/Awen/main/json/分享秒播.json"},
     {"key": "NBY秒播","name": "💖NBY秒播","type": 3,"quickSearch": 1,"api": "./js/AppysV2.js","ext":{"host":"http://122.228.84.103:5822/api.php/app/","*": ["http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url="]}}, 
     {"key": "bdys","name": "💖嘀嘀影视","type": 3,"api": "csp_WexBDys","searchable": 1,"changeable": 1,"jar": "https://agit.ai/66666/XC/raw/branch/master/jar/FxzPg.txt"},
     {"key": "csp_xBPQ_疯狗","name": "🍓疯狗秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/fgys.json"},
