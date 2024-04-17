@@ -17,7 +17,7 @@
     {"key": "996","name": "💗白嫖弹幕","jar":"./jar/YSZYZ.jar","type": 3,"api": "csp_Web996","searchable": 1,"quickSearch": 0,"filterable": 0,"playerType": 2,"ext": "https://baipiaoys.com:9092#公众号:影视资源站#https://www.baipiao-ys.cc:6062"},
     {"key": "南瓜弹幕版","name": "🎃南瓜弹幕","jar": "./jar/ok.jar","type": 3,"api": "csp_Nangua","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
     {"key": "白嫖影视","name": "🍹白嫖️蓝光","type": 3,"api": "csp_XBPQ","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/baipiaoys.json"},
-    {"key": "heimuer","name": "💖黑蘑影视","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hwhewen/Awen/main/json/heimuer.json"}，
+    {"key": "heimuer","name": "💖黑蘑影视","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hwhewen/Awen/main/json/heimuer.json"},
     {"key": "苹果","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","jar":"./jar/fan0318.txt","playerType":1,"searchable":1,"quickSearch":1,"changeable": 1},     
     {"key": "csp_xBPQ可可","name": "🍓可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/可可影视.json"},
     {"key": "Wexbttwo","name": "🀄Wexb秒播","jar":"./jar/wex.txt;md5;cdc9664110746fc5217bd6795f2a681b","type": 3,"api": "csp_Wexbttwo","searchable": 1,"changeable": 1},
