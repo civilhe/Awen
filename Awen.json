@@ -32,7 +32,7 @@
     {"key":"csp_星辰","name": "🍓星辰影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/xcys.json"},
     {"key":"miaociyuan","name":"💖喵喵影视","api":"./lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://u.kstore.space/download/4127/js/喵次元.js"}, 
     {"key": "csp_XYQBiu_骚火VIP","name": "🍓骚火VIP","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/shyyVIP.json"},   
-    {"key":"csp_热播","name":"🍓热播(维护)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "./json/rebozj.json"},
+    {"key":"csp_热播","name":"🍓热播之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "./json/rebozj.json"},
     {"key":"Jojo","name":"💖jojo影视","type":3,"api":"csp_Wexjiohub","searchable":1,"changeable":1,"jar":"./jar/jojo.jar"}, 
     {"key": "优酷","name": "🍓优酷(官)","type": 3,"api": "./lib/drpy2.min.js","ext": "https://gitcode.net/AGwen/awen/-/raw/master/youku.js"},
     {"key": "爱奇异","name": "🍓爱奇艺(官)","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/aiqiyi.js"},
