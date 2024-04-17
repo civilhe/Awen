@@ -83,7 +83,7 @@
       "categories": ["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]}],
       
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":
-  ["proxy://do=live&type=txt&ext=https://iptv.b2og.com/txt/ycl_iptv.txt"]}]}], 
+  ["proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"]}]}], 
      
   "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ","duoduozy","xinluan","ddzy","tgqp","tkqp","XRJX","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
   "parses": [
