@@ -3,7 +3,7 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {"key":"豆瓣","name":"🀄Awen影视（个人专属）","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},    
-    {"key": "玩偶","name": "👽玩偶4K","jar":"./jar/fan.txt;md5;08ae765676d7dffee6f7e363c0c22de1","type": 3,"api": "csp_WoGG","searchable": 1,      "quickSearch": 1,"changeable": 0,"ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://api.wogg.xyz/","danMu": "弹"}},
+    {"key": "玩偶","name": "👽玩偶4K","jar":"./jar/fan.txt;md5;08ae765676d7dffee6f7e363c0c22de1","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://api.wogg.xyz/","danMu": "弹"}},
     {"key": "阿里云集合","name": "👽阿里合集","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./json/tk.php","jar":"./jar/阿里.jar"},
     {"key": "酷看弹幕版","name": "😎酷看弹幕","type": 3,"api": "csp_Kkys","jar": "./jar/ok.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 20},
     {"key":"酷看","name":"💗酷看App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt"},
