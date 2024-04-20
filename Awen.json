@@ -13,12 +13,11 @@
     {"key": "NBY秒播","name": "💖NBY秒播","type": 3,"quickSearch": 1,"api": "./js/AppysV2.js","ext":{"host":"http://122.228.84.103:5822/api.php/app/","*": ["http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url="]}}, 
     {"key": "csp_Juqq","name": "⭕剧圈影视","jar":"./jar/PandaQ240416.jar","type": 3,"playerType": "2","api": "csp_Juqq"},
     {"key": "白嫖影视","name": "💖白嫖️蓝光","type": 3,"api": "csp_BaiPiao","jar": "./jar/PandaQ240408.jar","playerType": "2"},
-    {"key": "csp_xBPQ_秒","name": "🀄文才秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/文才.json"},
     {"key": "csp_xBPQ_疯狗","name": "🍓疯狗秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/fgys.json"},
     {"key": "TVB云播","name": "🍓TVB云播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/TVB.json"},
     {"key":"新视觉","name": "💗新视觉影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/新视觉.js" },
     {"key": "南瓜弹幕版","name": "🎃南瓜弹幕","jar": "./jar/ok.jar","type": 3,"api": "csp_Nangua","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
-    {"key": "heimuer","name": "💖黑蘑影视","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hwhewen/Awen/main/json/heimuer.json"},
+    {"key": "heimuer","name": "💖黑蘑影视","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/hwhewen/Awen/main/json/heimuer.json"}，
     {"key": "苹果","name":"🍎苹果影视","type":3,"api":"csp_LiteApple","jar":"./jar/fan0318.txt","playerType":1,"searchable":1,"quickSearch":1，"changeable": 1},     
     {"key": "csp_xBPQ可可","name": "🍓可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/可可影视.json"},
     {"key": "Wexbttwo","name": "🀄Wexb秒播","jar":"./jar/wex.txt;md5;cdc9664110746fc5217bd6795f2a681b","type": 3,"api": "csp_Wexbttwo","searchable": 1,"changeable": 1},
