@@ -10,7 +10,7 @@
     {"key":"酷看","name":"💗酷看App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt"},
     {"key": "荐片","name": "🍓荐片","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/jianpian.js"},
     {"key": "FEIYUN","name": "💖飞云影视","type": 3,"api": "./js/AppysV2.js","ext": {"host": "http://122.228.84.103:6117/api.php/app/","*": ["http://122.228.84.103:7777/api/?key=AIN9Y1Sca7qJSzInL5&url="]}},
-    {"key": "csp_xBPQ_秒","name": "🀄文才秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/文才.json"},
+    {"key": "csp_xBPQ_秒","name": "🀄红中秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":./json/红中秒播.json"},
     {"key": "NBY秒播","name": "💖NBY秒播","type": 3,"quickSearch": 1,"api": "./js/AppysV2.js","ext":{"host":"http://122.228.84.103:5822/api.php/app/","*": ["http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url="]}}, 
     {"key": "csp_Juqq","name": "⭕剧圈影视","jar":"./jar/PandaQ240416.jar","type": 3,"playerType": "2","api": "csp_Juqq"},
     {"key": "白嫖影视","name": "🍹白嫖️蓝光","type": 3,"api": "csp_BaiPiao","jar": "./jar/PandaQ240408.jar","playerType": "2"},
